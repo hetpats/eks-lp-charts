@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  standard-v1:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2022-09-26T11:07:44.251062551-04:00"
+    description: A Universal Standard Launchpad Kubernetes Helm chart
+    digest: cc443cf8ea9e166415b6c2c80628ab6f8e4cf8c5ccc4fae4f2555ee8a829473c
+    name: standard-v1
+    type: application
+    urls:
+    - standard-v1-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-09-26T11:07:44.23578693-04:00"
